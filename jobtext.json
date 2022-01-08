@@ -1,0 +1,8 @@
+{
+    "childjob":{
+        "url":"http://my-jenkins.southindia.azurecontainer.io:8080/job/childjob/build",
+        "parameters":{
+            "paramname": "input"
+        }
+    }
+}
